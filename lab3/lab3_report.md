@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4df48d8f-d01f-4a33-baa4-9ad2eae664a5)<div align="center">
+<div align="center">
 
 University: ITMO University
 
