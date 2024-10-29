@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/4df48d8f-d01f-4a33-baa4-9ad2eae664a5)<div align="center">
 
 University: ITMO University
 
@@ -26,19 +26,16 @@ Date of finished: 28.10.2024
 **2. Создал папку и переместил туда файлы в пределах своего bucket**
 ![image](https://github.com/user-attachments/assets/c0e1a8fb-f219-4dd4-91a9-f49f359d5bd2)
 
-**3. Перед тем как настроить публичный доступ в файлах приватности снял ограничение по политике публичного доступа**
-![image](https://github.com/user-attachments/assets/7f7f0ac5-7512-444e-9696-e2005be3c7b7)
+**3. Настроил публичный доступ для своих файлов в настройках приватности**
+![image](https://github.com/user-attachments/assets/195c8248-eb86-4475-8f1a-59becce84012)
+![image](https://github.com/user-attachments/assets/4c96888f-7b80-4fc4-9b19-7d576659bb2e)
 
-**4. Настроил публичный доступ для своих файлов в настройках приватности**
-![image](https://github.com/user-attachments/assets/decf3484-535e-4ffa-9b01-9e6a11286981)
-![image](https://github.com/user-attachments/assets/6fa734f8-b820-45e7-9580-107a7b5560b4)
+**4. Создал ссылку на файлы через контекстное меню файла**
 
-**5. Создал ссылку на файлы через контекстное меню файла**
+4.1. https://storage.cloud.google.com/dbaranov-bucket-1/my%20pictures/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%201.jpeg
 
-5.1. https://storage.cloud.google.com/dbaranov-bucket-1/my%20pictures/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%201.jpeg
+4.2. https://storage.cloud.google.com/dbaranov-bucket-1/my%20pictures/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%202.jpeg
 
-5.2. https://storage.cloud.google.com/dbaranov-bucket-1/my%20pictures/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%202.jpeg
+4.3. https://storage.cloud.google.com/dbaranov-bucket-1/my%20pictures/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%203.jpg
 
-5.3. https://storage.cloud.google.com/dbaranov-bucket-1/my%20pictures/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%203.jpg
-
-5.4. https://storage.cloud.google.com/dbaranov-bucket-1/my%20pictures/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%204.jpg
+4.4. https://storage.cloud.google.com/dbaranov-bucket-1/my%20pictures/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%204.jpg
